@@ -17,6 +17,6 @@ add_executable(untitled1 main.c
         tableauRand.h
         tree.c
         tree.h
-        newStack.cpp
+        newStack.c
         newStack.c
         newStack.h)
