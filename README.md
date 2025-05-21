@@ -1,7 +1,7 @@
 # Projet-Robot
 
 Ce projet consiste à développer un algorithme en langage C permettant à un rover martien de rejoindre une base située sur une carte, tout en évitant les obstacles du terrain.  
-L'algorithme utilise un arbre N-aire pour prendre des décisions en fonction du coût des cases, afin de choisir le chemin le plus sûr et le plus efficace parmi plusieurs mouvements possibles.
+L'algorithme utilise un arbre N-aire pour prendre des décisions en fonction du coût des cases, afin de choisir le chemin le plus sûr (en évitant les cases crevasses) et le plus efficace parmi plusieurs mouvements possibles (pour faire le moins de déplacement).
 
 ## Structure du projet
 
